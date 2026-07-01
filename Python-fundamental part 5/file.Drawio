@@ -1,0 +1,13 @@
+<mxfile host="65bd71144e">
+    <diagram id="f8b-NBEo9vAozILxifN-" name="Page-1">
+        <mxGraphModel dx="544" dy="480" grid="1" gridSize="18" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="cpMhzblqCQQ_4hmYmeBj-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Mode&lt;/th&gt;&lt;th&gt;Description&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;code&gt;&quot;r&quot;&lt;/code&gt;&lt;/td&gt;&lt;td&gt;Read only&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;code&gt;&quot;w&quot;&lt;/code&gt;&lt;/td&gt;&lt;td&gt;Write (overwrites existing content)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;code&gt;&quot;a&quot;&lt;/code&gt;&lt;/td&gt;&lt;td&gt;Append (adds content at the end)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;code&gt;&quot;x&quot;&lt;/code&gt;&lt;/td&gt;&lt;td&gt;Create a new file (fails if file exists)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;code&gt;&quot;r+&quot;&lt;/code&gt;&lt;/td&gt;&lt;td&gt;Read and write&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;code&gt;&quot;w+&quot;&lt;/code&gt;&lt;/td&gt;&lt;td&gt;Read and write (overwrites existing content)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;code&gt;&quot;a+&quot;&lt;/code&gt;&lt;/td&gt;&lt;td&gt;Read and append&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" vertex="1">
+                    <mxGeometry height="170" width="370" x="100" y="440" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
