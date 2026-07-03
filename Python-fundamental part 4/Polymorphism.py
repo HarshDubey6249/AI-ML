@@ -9,4 +9,3 @@ class Teacher:
 t1=Teacher()
 t1.get_des();
         
-        
