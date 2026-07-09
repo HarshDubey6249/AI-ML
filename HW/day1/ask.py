@@ -14,8 +14,7 @@ print("hello "+name +", you are " +age + " year old!")'''
 # print(num1-num2);
 # print(num1*num2);
 # print(num1/num2);
-
-# print(10+3*2**2);
+print(10+3*2**2);
 
 a=input('inter a= ');
 b=input("inter b= ");
